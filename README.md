@@ -8,7 +8,7 @@ Eine unabhängige Anwendung von **Andreas Münch**, hauptsächlich für Bosch Sm
 
 **[Aktuelles Release und Windows-Setup öffnen](https://github.com/Bastl23/AM-HomeHub/releases/latest)**
 
-1. Unter **Assets** die Datei **HomeControl-<Version>-Setup.exe** herunterladen.
+1. Unter **Assets** die Datei `HomeControl-0.25.1-Setup.exe` herunterladen.
 2. Setup starten und den Installationsassistenten durchlaufen.
 3. **AM HomeHub** über das Windows-Startmenü öffnen.
 4. Im Menü **Controller einrichten** den eigenen Bosch-Controller verbinden.
