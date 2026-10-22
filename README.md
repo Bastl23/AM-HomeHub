@@ -6,7 +6,9 @@ Eine unabhängige Anwendung von **Andreas Münch**, hauptsächlich für Bosch Sm
 
 ## Herunterladen und installieren
 
-**[Aktuelles Release und Windows-Setup öffnen](https://github.com/Bastl23/AM-HomeHub/releases/latest)**
+**[Windows-Setup herunterladen – Version 0.25.1](https://github.com/Bastl23/AM-HomeHub/releases/download/v0.25.1/HomeControl-0.25.1-Setup.exe)**
+
+[Alle Downloads, portable ZIP-Datei und PDF-Anleitung](https://github.com/Bastl23/AM-HomeHub/releases/latest)
 
 1. Unter **Assets** die Datei `HomeControl-0.25.1-Setup.exe` herunterladen.
 2. Setup starten und den Installationsassistenten durchlaufen.
